@@ -1,2 +1,2 @@
 # Computing_Roadmap
-Repositório com as práticas do roadmap.sh
+Repositório com as práticas do https://roadmap.sh
